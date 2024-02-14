@@ -1,0 +1,24 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/).
+
+## [Unreleased]
+
+## [1.0.0] - 2024-MM-DD
+### Added
+- Initial release of SAPIENTBOT with basic functionality.
+- I implemented the greeting command (`!hello`).
+- I added a command to get the current time (`!time`).
+- I implemented a command to start a trivia game (`!trivia`).
+
+### Changed
+- Updated README.md with installation and usage instructions.
+- Improved code documentation.
+
+### Fixed
+- Fixed a bug causing the bot to crash when handling specific commands.
+
+## [0.1.0] - 2024-02-15
+### Added
+- Basic structure of SAPIENTBOT project.
+
